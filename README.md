@@ -1,5 +1,5 @@
-## Laravel with Vue js Example (Login, Registration, Dashboard, User Info, User Info Edit and Logout)
-
+## Laravel-Vue
+#### Laravel with Vue js Example (Login, Registration, Dashboard, User Info, User Info Edit and Logout)
 Here I'm going to show, how to use vue js with laravel and make a Login, Registration, Dashboard, User Info, User Info Edit and Logout page
 
 ## Install
