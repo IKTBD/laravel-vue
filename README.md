@@ -38,3 +38,8 @@ After changing the config.js file you need to run the command "npm run dev"
 - Save the file
 - Run "npm run dev"
 - Done!!
+
+## Live Demo
+
+Here is the Live demo URL
+- http://demo.iktbd.com/laravel-vue
