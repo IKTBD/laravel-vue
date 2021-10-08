@@ -36,7 +36,7 @@
                with font-awesome or any other icon font library -->
 
                         <li class="nav-item">
-                            <a href="#/myinfo" class="nav-link">
+                            <a href="#/info" class="nav-link">
                                 <i class="nav-icon fas fa-user"></i>
                                 <p>
                                     My Info
